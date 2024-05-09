@@ -1,0 +1,14 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# TypeScript
+node_modules/
+dist/
+*.js
+*.js.map
+*.d.ts
+
+# Other
+.DS_Store

@@ -1,0 +1,24 @@
+{
+  "name": "ton-minter",
+  "version": "1.0.0",
+  "description": "Simple minter script for jettons givers",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node src/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@orbs-network/ton-access": "^2.3.3",
+    "ton": "^13.9.0",
+    "ton-core": "^0.53.0",
+    "ton-crypto": "^3.2.0",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.11",
+    "typescript": "^5.4.5"
+  }
+}
