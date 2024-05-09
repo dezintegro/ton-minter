@@ -1,5 +1,3 @@
-# ton-minter
-
 # TON Mining Script
 
 Simple script for jettons givers
